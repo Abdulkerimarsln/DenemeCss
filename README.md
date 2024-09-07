@@ -20,7 +20,7 @@ Bu proje, modern bir web sitesi tasarımı için çeşitli kütüphaneler ve tek
    
 ## Örnek Resimler
 
-![Resim 1](https://github.com/Abdulkerimarsln/DenemeCss/raw/main/1.png)
+![Resim 1](https://github.com/Abdulkerimarsln/DenemeCss/Adsız tasarım.zip/1.png)
 ![Resim 2](https://github.com/Abdulkerimarsln/DenemeCss/raw/main/2.png)
 ![Resim 3](https://github.com/Abdulkerimarsln/DenemeCss/raw/main/3.png)
 ![Resim 4](https://github.com/Abdulkerimarsln/DenemeCss/raw/main/4.png)

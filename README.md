@@ -16,5 +16,5 @@ Bu proje, modern bir web sitesi tasarımı için çeşitli kütüphaneler ve tek
 
 1. Depoyu klonlayın:
    ```bash
-   git clone https://github.com/kullanici-adiniz/proje-adi.git
+   git clone[https://github.com/Abdulkerimarsln/DenemeCss]
    
